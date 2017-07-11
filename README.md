@@ -5,7 +5,7 @@ Allows for easy controls nesting under tabs. Template utilizes bootstrap classes
 
 Usage example within a presenter:
 
-```
+```php
 <?php
 
 namespace App\Presenters;
